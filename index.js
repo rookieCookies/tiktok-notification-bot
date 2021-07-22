@@ -1,6 +1,6 @@
 //
 //
-//    This bot was made for Dinyy
+//    This bot was made for public use, please just dont claim it as your own ^^
 //
 //
 
